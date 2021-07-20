@@ -9,7 +9,7 @@ import setuptools
 
 setuptools.setup(
     name='subwork',
-    version='0.0.0',
+    version='0.0.1',
     author='Vd',
     author_email='vd@vd2.org',
     url='https://github.com/vd2org/subwork',
