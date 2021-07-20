@@ -63,7 +63,6 @@ async def subwork(cmd: str,
                 continue
 
     except GeneratorExit as e:
-        print('fuck!', e)
         at_exit = True
         return
 
